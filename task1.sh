@@ -1,3 +1,5 @@
 #!/bin/bash
 cat "${@}"
-# Exersice nomber 1 
+# Some comment for branch fixBranch
+# by Yurii Kovtsun
+# upd in 19:39
